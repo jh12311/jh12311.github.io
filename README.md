@@ -2,4 +2,4 @@
 
 [Please visit my homepage](https://jh12311.github.io/).
 
-![](/image/p1.jpg)
+![](/assets/image/p1.jpg)
